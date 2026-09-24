@@ -1,5 +1,3 @@
-# ⚫ Rahul — Developer Dashboard
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:404040&height=180&section=header&text=RAHUL&fontSize=52&fontColor=E5E5E5&animation=fadeIn&fontAlignY=55" />
 </p>
@@ -527,3 +525,39 @@ REPEAT
 <p align="center">
   <sub>© Rahul • Built with code, curiosity and consistency.</sub>
 </p>
+
+
+
+
+
+
+
+
+## 🖥️ 3D Cyber PC Showcase
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_3D_MODEL_LINK">
+    <img
+      src="YOUR_3D_MODEL_PREVIEW_GIF"
+      alt="Cyber PC 3D Model"
+      width="850"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Interactive 3D Cyber PC</strong><br/>
+  Scroll-driven 3D experience • Three.js • React Three Fiber • Blender
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_3D_MODEL_LINK">
+    <img src="https://img.shields.io/badge/VIEW%203D%20MODEL-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  </a>
+  <a href="YOUR_3D_MODEL_DOWNLOAD_LINK">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20MODEL-262626?style=for-the-badge&logo=blender&logoColor=white" />
+  </a>
+</p>
+
+> A cyber-style 3D PC experience where scrolling through the portfolio controls the camera and model movement.
+
