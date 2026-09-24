@@ -194,16 +194,25 @@ I enjoy turning ideas into working products with clean interfaces, structured AP
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=codeofrealm&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E5E5E5&icon_color=C0C0C0&text_color=A3A3A3" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeofrealm&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E5E5E5&text_color=A3A3A3" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=codeofrealm&show_icons=true&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=E5E5E5&text_color=A3A3A3&icon_color=C0C0C0"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeofrealm&layout=compact&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=E5E5E5&text_color=A3A3A3"
+    width="49%"
+  />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codeofrealm&theme=dark&hide_border=true&background=0D0D0D&ring=C0C0C0&fire=FFFFFF&currStreakLabel=E5E5E5&sideLabels=A3A3A3&dates=737373" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=codeofrealm&bg_color=0D0D0D&color=A3A3A3&line=737373&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+  />
 </p>
 
 ---
