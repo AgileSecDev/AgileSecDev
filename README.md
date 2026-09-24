@@ -221,6 +221,82 @@ Applications focused on integrating AI capabilities into practical user workflow
 
 **Cross-Platform Apps**
 
+# 🧊 3D Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blender,godot&theme=dark" />
+</p>
+
+<p align="center">
+
+### 🎮 Blender • Godot Engine
+
+</p>
+
+<p align="center">
+
+I'm exploring **3D modeling, interactive environments and game development** using Blender and Godot Engine.
+
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🧊 3D Modeling
+
+Blender
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎮 Game Engine
+
+Godot Engine
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌌 Interactive
+
+3D Experiences
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🖥️ 3D Model Showcase
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=120&text=3D%20MODEL&fontSize=36&fontColor=E5E5E5&fontAlignY=55" />
+
+</p>
+
+<p align="center">
+
+### 🎮 Interactive 3D Project
+
+**Blender → Godot Engine → Interactive Experience**
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_3D_MODEL_LINK">
+  <img src="https://img.shields.io/badge/VIEW%203D%20MODEL-000000?style=for-the-badge&logo=blender&logoColor=FFFFFF&labelColor=262626" />
+</a>
+
+<a href="YOUR_3D_MODEL_DOWNLOAD_LINK">
+  <img src="https://img.shields.io/badge/DOWNLOAD%20MODEL-262626?style=for-the-badge&logo=google-drive&logoColor=FFFFFF&labelColor=0D0D0D" />
+</a>
+
+</p>
+
 `Flutter` `React Native`
 
 Mobile applications designed for modern Android and cross-platform experiences.
