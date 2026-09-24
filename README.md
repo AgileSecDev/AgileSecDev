@@ -1,121 +1,192 @@
-# 🌌 Rahul — Full Stack Developer
+# ⚫ Rahul — Developer Dashboard
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+App+Builder;React+%7C+Django+%7C+Spring+Boot;Building+Real-World+Applications;Always+Learning+%26+Improving+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:404040&height=180&section=header&text=RAHUL&fontSize=52&fontColor=E5E5E5&animation=fadeIn&fontAlignY=55" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0066FF,100:111827&height=160&section=header&text=ZERONEX&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Web+%7C+Mobile+%7C+Backend;AI+%2F+ML+Application+Builder;Automation+%7C+Cloud+%7C+Testing;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
   <a href="https://github.com/codeofrealm">
-    <img src="https://img.shields.io/github/followers/codeofrealm?style=for-the-badge&logo=github&label=Followers&color=00F7FF&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
   <a href="https://github.com/codeofrealm?tab=repositories">
-    <img src="https://img.shields.io/github/stars/codeofrealm?style=for-the-badge&logo=github&label=Stars&color=00F7FF&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Repositories-171717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=codeofrealm&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=codeofrealm&style=for-the-badge&color=404040&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👋 Hello, I'm Rahul
+
+I'm a **Full Stack Developer** focused on building practical and scalable applications across **Web, Mobile, Backend, AI/ML, Automation and Cloud**.
+
+I enjoy turning ideas into working products with clean interfaces, structured APIs and reliable backend systems.
+
+### 🚀 What I Work With
+
+* 🌐 Modern Web Applications
+* 📱 Cross-Platform Mobile Applications
+* ⚙️ Backend & REST API Development
+* 🤖 AI / ML Applications
+* 🔄 Workflow Automation
+* ☁️ Cloud & Backend Services
+* 🧪 Manual & Automation Testing
+* 🎮 Game & 3D Development
+
+</td>
+
+<td width="40%" valign="top">
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                         RAHUL                                │
-├──────────────────────────────────────────────────────────────┤
-│ 💻 Full Stack Developer                                      │
-│ 📱 Flutter & Mobile Application Builder                      │
-│ 🌐 React Web Application Developer                           │
-│ ⚙️ Django / Flask / Spring Boot Backend                      │
-│ 🗄️ PostgreSQL / MySQL / MongoDB                             │
-│ ☁️ AWS & Deployment                                          │
-│ 📘 DSA Practice                                              │
-│ 🚀 Always learning new technologies                          │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════╗
+║       DEVELOPER PROFILE      ║
+╠══════════════════════════════╣
+║                              ║
+║  WEB          ██████████     ║
+║  MOBILE       █████████      ║
+║  BACKEND      █████████      ║
+║  AI / ML      ████████       ║
+║  CLOUD        ███████        ║
+║  AUTOMATION   ███████        ║
+║  TESTING      ███████        ║
+║  GAME DEV     ██████         ║
+║                              ║
+╚══════════════════════════════╝
 ```
 
-I build practical applications across **Web, Mobile, Backend, APIs and Cloud**.
-
-My focus is on creating applications with:
-
-* ⚡ Clean and responsive UI
-* 🔐 Secure and structured APIs
-* 🧩 Scalable backend architecture
-* 🗄️ Reliable database design
-* 📱 Cross-platform mobile applications
-* ☁️ Deployment-ready applications
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧩 Technology Universe
+# 🖥️ Skills & Technology
 
-## 👨‍💻 Programming
+## 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter&theme=dark" />
 </p>
 
-`JavaScript` `Python` `Java`
+`React` `Next.js` `Flutter` `React Native`
 
 ---
 
-## 🌐 Frontend
+## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,spring&theme=dark" />
 </p>
 
-`HTML` `CSS` `Tailwind CSS` `React.js`
+`Django` `FastAPI` `Spring Boot`
 
 ---
 
-## ⚙️ Backend
+## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
 </p>
 
-`Django` `Flask` `Spring Boot`
-
----
-
-## 📱 Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark" />
-</p>
-
-`Flutter` `Android Studio`
+`Python` `Java` `JavaScript` `TypeScript`
 
 ---
 
 ## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 </p>
 
-`MongoDB` `MySQL` `PostgreSQL` `Firebase`
+`MongoDB` `MySQL` `PostgreSQL`
 
 ---
 
-## ☁️ DevOps & Tools
+## 🤖 AI / ML
+
+```text
+┌─────────────────────────────────────┐
+│             AI / ML                 │
+├─────────────────────────────────────┤
+│                                     │
+│  🧠 ML Training                     │
+│  🤖 AI Applications                 │
+│                                     │
+└─────────────────────────────────────┘
+```
+
+`ML Training` `AI Applications`
+
+---
+
+## ☁️ Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,postman,powershell&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,firebase&theme=dark" />
 </p>
 
-`Git` `GitHub` `VS Code` `AWS` `Postman` `PowerShell`
+`AWS` `Firebase` `Supabase`
 
 ---
 
-# 🚀 Full Tech Stack
+## 🔄 Automation
+
+```text
+┌─────────────────────────────────────┐
+│            AUTOMATION               │
+├─────────────────────────────────────┤
+│                                     │
+│  🔄 n8n                             │
+│  ⚙️ Automation Testing              │
+│                                     │
+└─────────────────────────────────────┘
+```
+
+`n8n` `Automation Testing`
+
+---
+
+## 🎮 Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=blender,godot&theme=dark" />
+</p>
+
+`Blender` `Godot Engine`
+
+---
+
+## 🧪 Testing
+
+```text
+┌─────────────────────────────────────┐
+│              TESTING                │
+├─────────────────────────────────────┤
+│                                     │
+│  🔍 Manual Testing                  │
+│  ⚙️ Automation Testing              │
+│                                     │
+└─────────────────────────────────────┘
+```
+
+`Manual Testing` `Automation Testing`
+
+---
+
+# 🧩 Complete Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,java,django,flask,spring,mongodb,mysql,postgres,firebase,flutter,aws,git,github,vscode,androidstudio,postman,powershell&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,python,java,js,ts,django,fastapi,spring,mongodb,mysql,postgres,aws,firebase,supabase,blender,godot&perline=6&theme=dark" />
 </p>
 
 ---
@@ -123,8 +194,8 @@ My focus is on creating applications with:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codeofrealm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeofrealm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=codeofrealm&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E5E5E5&icon_color=C0C0C0&text_color=A3A3A3" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeofrealm&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E5E5E5&text_color=A3A3A3" />
 </p>
 
 ---
@@ -132,7 +203,7 @@ My focus is on creating applications with:
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codeofrealm&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img src="https://streak-stats.demolab.com?user=codeofrealm&theme=dark&hide_border=true&background=0D0D0D&ring=C0C0C0&fire=FFFFFF&currStreakLabel=E5E5E5&sideLabels=A3A3A3&dates=737373" />
 </p>
 
 ---
@@ -140,7 +211,7 @@ My focus is on creating applications with:
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeofrealm&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeofrealm&bg_color=0D0D0D&color=C0C0C0&line=737373&point=FFFFFF&area=true&area_color=262626&hide_border=true" />
 </p>
 
 ---
@@ -148,7 +219,7 @@ My focus is on creating applications with:
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codeofrealm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codeofrealm&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" />
 </p>
 
 ---
@@ -157,160 +228,277 @@ My focus is on creating applications with:
 
 <table>
 <tr>
-<td width="50%">
 
-### 💰 Loan Web Application
+<td width="50%" valign="top">
 
-**Stack**
+## 💼 Employee Track AI
 
-`React` `Firebase`
+**Full Stack Management Platform**
 
-Dashboard-oriented web application designed for managing loan-related workflows and information.
+`React` `Django` `PostgreSQL` `AI`
+
+Employee-focused application for managing organizational workflows and data.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 AI Applications
+
+**AI-Powered Applications**
+
+`Python` `AI/ML` `Flutter`
+
+Applications focused on integrating AI capabilities into practical user workflows.
 
 </td>
 
-<td width="50%">
-
-### 🤖 AI Chat Application
-
-**Stack**
-
-`Flutter` `AI`
-
-Mobile application focused on conversational interaction with voice and AI capabilities.
-
-</td>
 </tr>
 
 <tr>
-<td width="50%">
 
-### 💸 Expense Tracker
+<td width="50%" valign="top">
 
-**Stack**
+## 📱 Mobile Applications
 
-`Flutter`
+**Cross-Platform Apps**
 
-Mobile application for tracking expenses and monitoring monthly spending.
+`Flutter` `React Native`
+
+Mobile applications designed for modern Android and cross-platform experiences.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 Web Applications
+
+**Modern Web Systems**
+
+`React` `Next.js` `Django` `FastAPI`
+
+Responsive web applications with structured frontend and backend architecture.
 
 </td>
 
-<td width="50%">
+</tr>
 
-### 👨‍💼 Employee Management
+<tr>
 
-**Stack**
+<td width="50%" valign="top">
 
-`React` `Django` `PostgreSQL`
+## 🔄 Automation Systems
 
-Management-focused application for handling employee-related data and workflows.
+**Workflow Automation**
+
+`n8n` `Python` `Automation Testing`
+
+Automation workflows designed to reduce repetitive development and testing tasks.
 
 </td>
+
+<td width="50%" valign="top">
+
+## 🎮 3D / Game Development
+
+**Interactive Experiences**
+
+`Blender` `Godot Engine`
+
+Exploring 3D design, interactive experiences and game development.
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 🧪 Current Focus
+# 🏗️ Development Architecture
 
 ```text
-Frontend       ████████████████████░░   React / Tailwind
-Backend        ███████████████████░░░   Django / Spring Boot
-Mobile         ██████████████████░░░░   Flutter
-Database       ███████████████████░░░   PostgreSQL / MySQL
-Cloud          ███████████████░░░░░░░   AWS
-DSA            ███████████████░░░░░░░   Practice
+                    ┌─────────────────┐
+                    │      IDEA       │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │      UI/UX      │
+                    └────────┬────────┘
+                             │
+                             ▼
+              ┌────────────────────────────┐
+              │         FRONTEND           │
+              │ React • Next • Flutter     │
+              │ React Native               │
+              └─────────────┬──────────────┘
+                            │
+                            ▼
+              ┌────────────────────────────┐
+              │          API               │
+              │ Django • FastAPI           │
+              │ Spring Boot                │
+              └─────────────┬──────────────┘
+                            │
+                            ▼
+              ┌────────────────────────────┐
+              │         DATABASE           │
+              │ MongoDB • MySQL            │
+              │ PostgreSQL                 │
+              └─────────────┬──────────────┘
+                            │
+                            ▼
+              ┌────────────────────────────┐
+              │       AI / AUTOMATION      │
+              │ ML • AI • n8n               │
+              └─────────────┬──────────────┘
+                            │
+                            ▼
+              ┌────────────────────────────┐
+              │          CLOUD             │
+              │ AWS • Firebase • Supabase  │
+              └─────────────┬──────────────┘
+                            │
+                            ▼
+                    ┌─────────────────┐
+                    │    DEPLOY 🚀    │
+                    └─────────────────┘
 ```
 
 ---
 
-# 🗺️ Developer Roadmap
+# 🧪 Development Workflow
+
+```text
+        ┌──────────────┐
+        │     PLAN     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    DESIGN    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     CODE     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     TEST     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   AUTOMATE   │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    DEPLOY    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    IMPROVE   │
+        └──────────────┘
+```
+
+---
+
+# 🗺️ Learning & Development Roadmap
 
 ```mermaid
-graph LR
+graph TD
 
-A[HTML / CSS / JS] --> B[React]
-B --> C[Frontend Applications]
+A[Programming] --> B[Frontend]
+A --> C[Backend]
 
-D[Python] --> E[Django / Flask]
-E --> F[REST APIs]
+B --> D[React]
+B --> E[Next.js]
+B --> F[Flutter]
+B --> G[React Native]
 
-G[Java] --> H[Spring Boot]
-H --> I[Enterprise APIs]
+C --> H[Django]
+C --> I[FastAPI]
+C --> J[Spring Boot]
 
-C --> J[Full Stack]
-F --> J
-I --> J
+H --> K[REST APIs]
+I --> K
+J --> K
 
-J --> K[PostgreSQL]
-J --> L[Cloud / AWS]
-J --> M[Production Deployment]
+K --> L[Databases]
 
-M --> N[🚀 Real World Applications]
+L --> M[MongoDB]
+L --> N[MySQL]
+L --> O[PostgreSQL]
+
+K --> P[AI / ML]
+K --> Q[Automation]
+
+P --> R[AI Applications]
+Q --> S[n8n]
+
+L --> T[Cloud]
+
+T --> U[AWS]
+T --> V[Firebase]
+T --> W[Supabase]
+
+U --> X[Production]
+V --> X
+W --> X
 ```
 
 ---
 
-# 📱 Development Areas
+# 📚 Current Learning Areas
 
-| Area               | Technologies                         |
-| ------------------ | ------------------------------------ |
-| 🌐 Web             | React, HTML, CSS, Tailwind           |
-| ⚙️ Backend         | Django, Flask, Spring Boot           |
-| 📱 Mobile          | Flutter, Android                     |
-| 🗄️ Database       | PostgreSQL, MySQL, MongoDB, Firebase |
-| 🔌 API             | REST APIs, Postman                   |
-| ☁️ Cloud           | AWS                                  |
-| 🛠️ Development    | Git, GitHub, VS Code                 |
-| 📘 Problem Solving | DSA                                  |
+| Area                | Focus                                |
+| ------------------- | ------------------------------------ |
+| 🌐 Frontend         | React, Next.js                       |
+| 📱 Mobile           | Flutter, React Native                |
+| ⚙️ Backend          | Django, FastAPI, Spring Boot         |
+| 💻 Programming      | Python, Java, JavaScript, TypeScript |
+| 🗄️ Database        | MongoDB, MySQL, PostgreSQL           |
+| 🤖 AI / ML          | ML Training, AI Applications         |
+| ☁️ Cloud            | AWS, Firebase, Supabase              |
+| 🔄 Automation       | n8n, Automation Testing              |
+| 🎮 Game Development | Blender, Godot Engine                |
+| 🧪 Testing          | Manual & Automation Testing          |
 
 ---
 
-# 🎯 What I'm Building
+# 📦 Technology Matrix
+
+| Category         | Technologies                             |
+| ---------------- | ---------------------------------------- |
+| Frontend         | React • Next.js • Flutter • React Native |
+| Backend          | Django • FastAPI • Spring Boot           |
+| Programming      | Python • Java • JavaScript • TypeScript  |
+| Databases        | MongoDB • MySQL • PostgreSQL             |
+| AI / ML          | ML Training • AI Applications            |
+| Cloud            | AWS • Firebase • Supabase                |
+| Automation       | n8n • Automation Testing                 |
+| Game Development | Blender • Godot Engine                   |
+| Testing          | Manual Testing • Automation Testing      |
+
+---
+
+# 🎯 Developer Focus
 
 ```text
-┌──────────────────────┐
-│       IDEAS          │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│      DESIGN          │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│       CODE           │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│        API           │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│      DATABASE        │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│      DEPLOY          │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│   REAL APPLICATION   │
-└──────────────────────┘
+╔══════════════════════════════════════════════╗
+║              CURRENT FOCUS                   ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  ████████████████████  Full Stack           ║
+║  ██████████████████░░  Web Development      ║
+║  █████████████████░░░  Mobile Development   ║
+║  ████████████████░░░░  Backend APIs         ║
+║  ██████████████░░░░░░  AI / ML              ║
+║  █████████████░░░░░░░  Cloud                ║
+║  ████████████░░░░░░░░  Automation           ║
+║  ███████████░░░░░░░░░  Testing              ║
+║  ██████████░░░░░░░░░░  Game Development     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
-
----
-
-# 📚 Learning
-
-* 🧠 Data Structures & Algorithms
-* ⚛️ Advanced React
-* 🐍 Django REST APIs
-* ☕ Spring Boot
-* 📱 Flutter Application Development
-* 🐘 PostgreSQL
-* ☁️ AWS & Deployment
-* 🔐 API Security
-* 🏗️ Scalable Application Architecture
 
 ---
 
@@ -318,38 +506,66 @@ M --> N[🚀 Real World Applications]
 
 <p align="center">
 
-### BUILD → TEST → BREAK → FIX → LEARN → REPEAT
+```text
+BUILD
+  ↓
+TEST
+  ↓
+BREAK
+  ↓
+FIX
+  ↓
+LEARN
+  ↓
+AUTOMATE
+  ↓
+DEPLOY
+  ↓
+REPEAT
+```
+
+### "Build. Break. Learn. Repeat."
 
 </p>
 
-> **“Build. Break. Learn. Repeat.”**
-
 ---
 
-# 🌐 Connect With Me
+# 🌐 GitHub
 
 <p align="center">
 
 <a href="https://github.com/codeofrealm">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 <a href="https://github.com/codeofrealm?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/Repositories-262626?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 </p>
 
 ---
 
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codeofrealm&style=for-the-badge&color=404040&labelColor=000000&label=PROFILE+VIEWS" />
+</p>
+
+---
+
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0066FF,100:00F7FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:404040,50:171717,100:000000&height=130&section=footer" />
 
-### 🌌 ZERONEX
+## ⚫ ZERONEX
 
-**Developer • Builder • Learner • Creator**
+### Developer • Builder • Learner • Creator
 
-⭐ Thanks for visiting my GitHub profile!
+**Thanks for visiting my GitHub profile.**
 
+</p>
+
+<p align="center">
+  <sub>© Rahul • Built with code, curiosity and consistency.</sub>
 </p>
