@@ -181,57 +181,6 @@ I enjoy turning ideas into working products with clean interfaces, structured AP
 
 `Manual Testing` `Automation Testing`
 
----
-
-# 🧩 Complete Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,python,java,js,ts,django,fastapi,spring,mongodb,mysql,postgres,aws,firebase,supabase,blender,godot&perline=6&theme=dark" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=codeofrealm&show_icons=true&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=E5E5E5&text_color=A3A3A3&icon_color=C0C0C0"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeofrealm&layout=compact&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=E5E5E5&text_color=A3A3A3"
-    width="49%"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codeofrealm&bg_color=0D0D0D&color=A3A3A3&line=737373&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeofrealm&bg_color=0D0D0D&color=C0C0C0&line=737373&point=FFFFFF&area=true&area_color=262626&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codeofrealm&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" />
-</p>
-
----
 
 # 🚀 Featured Projects
 
