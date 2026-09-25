@@ -130,12 +130,11 @@
 `Manual Testing` `Automation Testing`
 
 ---
-
 # 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AgileSecDev/AgileSecDev/main/github-metrics.svg"
+    src="https://raw.githubusercontent.com/codeofrealm/AgileSecDev/main/github-metrics.svg"
     alt="GitHub Analytics"
     width="100%"
   />
@@ -149,7 +148,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AgileSecDev/AgileSecDev/main/github-metrics-habits.svg"
+    src="https://raw.githubusercontent.com/codeofrealm/AgileSecDev/main/github-metrics-habits.svg"
     alt="GitHub Contribution Activity"
     width="100%"
   />
@@ -169,7 +168,6 @@
   />
 </p>
 
----
 
 # 🖥️ 3D Cyber PC Showcase
 
