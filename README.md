@@ -134,20 +134,28 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Analytics" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/AgileSecDev/AgileSecDev/main/github-metrics.svg"
+    alt="GitHub Analytics"
+    width="100%"
+  />
 </p>
 
-> Automatically generated using the `lowlighter/metrics` GitHub Action.
+> Automatically generated using `lowlighter/metrics`.
 
 ---
 
 # 📅 Contribution Activity
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Contribution Activity" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/AgileSecDev/AgileSecDev/main/github-metrics-habits.svg"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
 </p>
 
-> Includes contribution activity, isometric calendar data, coding habits and language activity.
+> Contribution activity, coding habits and calendar statistics generated automatically by GitHub Actions.
 
 ---
 
@@ -180,37 +188,6 @@
 </p>
 
 > A cyber-style 3D PC experience where scrolling through the portfolio controls the camera and model movement.
-
-> 🔗 The live 3D model and download links will be added when the portfolio model URL is available.
-
----
-
-# ⚙️ GitHub Metrics
-
-The GitHub profile analytics are generated automatically using:
-
-* `lowlighter/metrics`
-* Isometric contribution calendar
-* Coding habits
-* Language activity
-* GitHub activity
-* Repository statistics
-
-Create the following workflow:
-
-```text
-.github/
-└── workflows/
-    └── metrics.yml
-```
-
-The workflow generates:
-
-```text
-github-metrics.svg
-```
-
-and commits it to the repository automatically.
 
 ---
 
