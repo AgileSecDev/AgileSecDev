@@ -16,103 +16,42 @@
   <img src="https://komarev.com/ghpvc/?username=codeofrealm&style=for-the-badge&color=404040&label=PROFILE+VIEWS" />
 </p>
 
----
+🖥️ Skills & Technology
 
-# 🧠 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 👋 Hello, I'm Rahul
-
-I'm a **Full Stack Developer** focused on building practical and scalable applications across **Web, Mobile, Backend, AI/ML, Automation and Cloud**.
-
-I enjoy turning ideas into working products with clean interfaces, structured APIs and reliable backend systems.
-
-### 🚀 What I Work With
-
-* 🌐 Modern Web Applications
-* 📱 Cross-Platform Mobile Applications
-* ⚙️ Backend & REST API Development
-* 🤖 AI / ML Applications
-* 🔄 Workflow Automation
-* ☁️ Cloud & Backend Services
-* 🧪 Manual & Automation Testing
-* 🎮 Game & 3D Development
-
-</td>
-
-<td width="40%" valign="top">
-
-```text
-╔══════════════════════════════╗
-║       DEVELOPER PROFILE      ║
-╠══════════════════════════════╣
-║                              ║
-║  WEB          ██████████     ║
-║  MOBILE       █████████      ║
-║  BACKEND      █████████      ║
-║  AI / ML      ████████       ║
-║  CLOUD        ███████        ║
-║  AUTOMATION   ███████        ║
-║  TESTING      ███████        ║
-║  GAME DEV     ██████         ║
-║                              ║
-╚══════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
----
-
-# 🖥️ Skills & Technology
-
-## 🌐 Frontend Development
+🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter&theme=dark" />
 </p>
 
-`React` `Next.js` `Flutter` `React Native`
+React Next.js Flutter React Native
 
----
-
-## ⚙️ Backend Development
+⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,spring&theme=dark" />
 </p>
 
-`Django` `FastAPI` `Spring Boot`
+Django FastAPI Spring Boot
 
----
-
-## 💻 Programming Languages
+💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
 </p>
 
-`Python` `Java` `JavaScript` `TypeScript`
+Python Java JavaScript TypeScript
 
----
-
-## 🗄️ Databases
+🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 </p>
 
-`MongoDB` `MySQL` `PostgreSQL`
+MongoDB MySQL PostgreSQL
 
----
+🤖 AI / ML
 
-## 🤖 AI / ML
-
-```text
 ┌─────────────────────────────────────┐
 │             AI / ML                 │
 ├─────────────────────────────────────┤
@@ -121,25 +60,19 @@ I enjoy turning ideas into working products with clean interfaces, structured AP
 │  🤖 AI Applications                 │
 │                                     │
 └─────────────────────────────────────┘
-```
 
-`ML Training` `AI Applications`
+ML Training AI Applications
 
----
-
-## ☁️ Cloud
+☁️ Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,firebase&theme=dark" />
 </p>
 
-`AWS` `Firebase` `Supabase`
+AWS Firebase Supabase
 
----
+🔄 Automation
 
-## 🔄 Automation
-
-```text
 ┌─────────────────────────────────────┐
 │            AUTOMATION               │
 ├─────────────────────────────────────┤
@@ -148,25 +81,19 @@ I enjoy turning ideas into working products with clean interfaces, structured AP
 │  ⚙️ Automation Testing              │
 │                                     │
 └─────────────────────────────────────┘
-```
 
-`n8n` `Automation Testing`
+n8n Automation Testing
 
----
-
-## 🎮 Game Development
+🎮 Game Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=blender,godot&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=blender,godot&theme=dark" />
 </p>
 
-`Blender` `Godot Engine`
+Blender Godot Engine
 
----
+🧪 Testing
 
-## 🧪 Testing
-
-```text
 ┌─────────────────────────────────────┐
 │              TESTING                │
 ├─────────────────────────────────────┤
@@ -175,365 +102,32 @@ I enjoy turning ideas into working products with clean interfaces, structured AP
 │  ⚙️ Automation Testing              │
 │                                     │
 └─────────────────────────────────────┘
-```
 
-`Manual Testing` `Automation Testing`
+Manual Testing Automation Testing
 
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 💼 Employee Track AI
-
-**Full Stack Management Platform**
-
-`React` `Django` `PostgreSQL` `AI`
-
-Employee-focused application for managing organizational workflows and data.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🤖 AI Applications
-
-**AI-Powered Applications**
-
-`Python` `AI/ML` `Flutter`
-
-Applications focused on integrating AI capabilities into practical user workflows.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📱 Mobile Applications
-
-**Cross-Platform Apps**
-
-`Flutter` `React Native`
-
-Mobile applications designed for modern Android and cross-platform experiences.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 Web Applications
-
-**Modern Web Systems**
-
-`React` `Next.js` `Django` `FastAPI`
-
-Responsive web applications with structured frontend and backend architecture.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔄 Automation Systems
-
-**Workflow Automation**
-
-`n8n` `Python` `Automation Testing`
-
-Automation workflows designed to reduce repetitive development and testing tasks.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎮 3D / Game Development
-
-**Interactive Experiences**
-
-`Blender` `Godot Engine`
-
-Exploring 3D design, interactive experiences and game development.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🏗️ Development Architecture
-
-```text
-                    ┌─────────────────┐
-                    │      IDEA       │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │      UI/UX      │
-                    └────────┬────────┘
-                             │
-                             ▼
-              ┌────────────────────────────┐
-              │         FRONTEND           │
-              │ React • Next • Flutter     │
-              │ React Native               │
-              └─────────────┬──────────────┘
-                            │
-                            ▼
-              ┌────────────────────────────┐
-              │          API               │
-              │ Django • FastAPI           │
-              │ Spring Boot                │
-              └─────────────┬──────────────┘
-                            │
-                            ▼
-              ┌────────────────────────────┐
-              │         DATABASE           │
-              │ MongoDB • MySQL            │
-              │ PostgreSQL                 │
-              └─────────────┬──────────────┘
-                            │
-                            ▼
-              ┌────────────────────────────┐
-              │       AI / AUTOMATION      │
-              │ ML • AI • n8n               │
-              └─────────────┬──────────────┘
-                            │
-                            ▼
-              ┌────────────────────────────┐
-              │          CLOUD             │
-              │ AWS • Firebase • Supabase  │
-              └─────────────┬──────────────┘
-                            │
-                            ▼
-                    ┌─────────────────┐
-                    │    DEPLOY 🚀    │
-                    └─────────────────┘
-```
-
----
-
-# 🧪 Development Workflow
-
-```text
-        ┌──────────────┐
-        │     PLAN     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    DESIGN    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │     CODE     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │     TEST     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   AUTOMATE   │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    DEPLOY    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    IMPROVE   │
-        └──────────────┘
-```
-
----
-
-# 🗺️ Learning & Development Roadmap
-
-```mermaid
-graph TD
-
-A[Programming] --> B[Frontend]
-A --> C[Backend]
-
-B --> D[React]
-B --> E[Next.js]
-B --> F[Flutter]
-B --> G[React Native]
-
-C --> H[Django]
-C --> I[FastAPI]
-C --> J[Spring Boot]
-
-H --> K[REST APIs]
-I --> K
-J --> K
-
-K --> L[Databases]
-
-L --> M[MongoDB]
-L --> N[MySQL]
-L --> O[PostgreSQL]
-
-K --> P[AI / ML]
-K --> Q[Automation]
-
-P --> R[AI Applications]
-Q --> S[n8n]
-
-L --> T[Cloud]
-
-T --> U[AWS]
-T --> V[Firebase]
-T --> W[Supabase]
-
-U --> X[Production]
-V --> X
-W --> X
-```
-
----
-
-# 📚 Current Learning Areas
-
-| Area                | Focus                                |
-| ------------------- | ------------------------------------ |
-| 🌐 Frontend         | React, Next.js                       |
-| 📱 Mobile           | Flutter, React Native                |
-| ⚙️ Backend          | Django, FastAPI, Spring Boot         |
-| 💻 Programming      | Python, Java, JavaScript, TypeScript |
-| 🗄️ Database        | MongoDB, MySQL, PostgreSQL           |
-| 🤖 AI / ML          | ML Training, AI Applications         |
-| ☁️ Cloud            | AWS, Firebase, Supabase              |
-| 🔄 Automation       | n8n, Automation Testing              |
-| 🎮 Game Development | Blender, Godot Engine                |
-| 🧪 Testing          | Manual & Automation Testing          |
-
----
-
-# 📦 Technology Matrix
-
-| Category         | Technologies                             |
-| ---------------- | ---------------------------------------- |
-| Frontend         | React • Next.js • Flutter • React Native |
-| Backend          | Django • FastAPI • Spring Boot           |
-| Programming      | Python • Java • JavaScript • TypeScript  |
-| Databases        | MongoDB • MySQL • PostgreSQL             |
-| AI / ML          | ML Training • AI Applications            |
-| Cloud            | AWS • Firebase • Supabase                |
-| Automation       | n8n • Automation Testing                 |
-| Game Development | Blender • Godot Engine                   |
-| Testing          | Manual Testing • Automation Testing      |
-
----
-
-# 🎯 Developer Focus
-
-```text
-╔══════════════════════════════════════════════╗
-║              CURRENT FOCUS                   ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  ████████████████████  Full Stack           ║
-║  ██████████████████░░  Web Development      ║
-║  █████████████████░░░  Mobile Development   ║
-║  ████████████████░░░░  Backend APIs         ║
-║  ██████████████░░░░░░  AI / ML              ║
-║  █████████████░░░░░░░  Cloud                ║
-║  ████████████░░░░░░░░  Automation           ║
-║  ███████████░░░░░░░░░  Testing              ║
-║  ██████████░░░░░░░░░░  Game Development     ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-# ⚡ Developer Philosophy
+📊 GitHub Analytics
 
 <p align="center">
-
-```text
-BUILD
-  ↓
-TEST
-  ↓
-BREAK
-  ↓
-FIX
-  ↓
-LEARN
-  ↓
-AUTOMATE
-  ↓
-DEPLOY
-  ↓
-REPEAT
-```
-
-### "Build. Break. Learn. Repeat."
-
+  <img src="./github-metrics.svg" alt="GitHub Analytics" width="100%" />
 </p>
 
----
+GitHub analytics are generated automatically with the lowlighter/metrics GitHub Action.
 
-# 🌐 GitHub
+📅 Contribution Activity
 
 <p align="center">
-
-<a href="https://github.com/codeofrealm">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
-<a href="https://github.com/codeofrealm?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-262626?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
+  <img src="./github-metrics-habits.svg" alt="Contribution Activity and Coding Habits" width="100%" />
 </p>
 
----
+The metrics workflow generates contribution activity, coding habits and activity visualizations automatically.
 
-# 👀 Profile Views
+🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codeofrealm&style=for-the-badge&color=404040&labelColor=000000&label=PROFILE+VIEWS" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codeofrealm&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Achievements" width="100%" />
 </p>
 
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:404040,50:171717,100:000000&height=130&section=footer" />
-
-## ⚫ ZERONEX
-
-### Developer • Builder • Learner • Creator
-
-**Thanks for visiting my GitHub profile.**
-
-</p>
-
-<p align="center">
-  <sub>© Rahul • Built with code, curiosity and consistency.</sub>
-</p>
-
-
-
-
-
-
-
-
-## 🖥️ 3D Cyber PC Showcase
+🖥️ 3D Cyber PC Showcase
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_3D_MODEL_LINK">
@@ -559,5 +153,103 @@ REPEAT
   </a>
 </p>
 
-> A cyber-style 3D PC experience where scrolling through the portfolio controls the camera and model movement.
+A cyber-style 3D PC experience where scrolling through the portfolio controls the camera and model movement.
 
+⚙️ GitHub Metrics Setup
+
+The analytics above are generated using lowlighter/metrics.
+
+Create:
+
+.github/
+└── workflows/
+    └── metrics.yml
+
+Example configuration:
+
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate GitHub Analytics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: codeofrealm
+          filename: github-metrics.svg
+          template: classic
+          config_timezone: Asia/Kolkata
+          base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_habits: yes
+          plugin_habits_from: 300
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
+          output_action: commit
+
+      - name: Generate Contribution Activity
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: codeofrealm
+          filename: github-metrics-habits.svg
+          template: classic
+          config_timezone: Asia/Kolkata
+          base: activity
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          plugin_habits: yes
+          plugin_habits_from: 300
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
+          output_action: commit
+
+The isocalendar plugin provides the isometric contribution calendar, while the habits plugin provides coding-activity and habits visualizations. The current lowlighter/metrics documentation lists both plugins and supports committing generated SVG output from the Action.
+
+🌐 GitHub
+
+<p align="center">
+  <a href="https://github.com/codeofrealm">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+
+  <a href="https://github.com/codeofrealm?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-262626?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+</p>
+
+👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codeofrealm&style=for-the-badge&color=404040&labelColor=000000&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:404040,50:171717,100:000000&height=130&section=footer" />
+
+  <br/>
+
+⚫ ZERONEX
+
+Developer • Builder • Learner • Creator
+
+Thanks for visiting my GitHub profile.
+
+</p>
+
+<p align="center">
+  <sub>© Rahul • Built with code, curiosity and consistency.</sub>
+</p>
