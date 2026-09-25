@@ -16,84 +16,107 @@
   <img src="https://komarev.com/ghpvc/?username=codeofrealm&style=for-the-badge&color=404040&label=PROFILE+VIEWS" />
 </p>
 
-🖥️ Skills & Technology
+---
 
-🌐 Frontend Development
+# 🖥️ Skills & Technology
+
+## 🌐 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter&theme=dark" />
 </p>
 
-React Next.js Flutter React Native
+`React` `Next.js` `Flutter` `React Native`
 
-⚙️ Backend Development
+---
+
+## ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=django,fastapi,spring&theme=dark" />
 </p>
 
-Django FastAPI Spring Boot
+`Django` `FastAPI` `Spring Boot`
 
-💻 Programming Languages
+---
+
+## 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
 </p>
 
-Python Java JavaScript TypeScript
+`Python` `Java` `JavaScript` `TypeScript`
 
-🗄️ Databases
+---
+
+## 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 </p>
 
-MongoDB MySQL PostgreSQL
+`MongoDB` `MySQL` `PostgreSQL`
 
-🤖 AI / ML
+---
 
+## 🤖 AI / ML
+
+```text
 ┌─────────────────────────────────────┐
-│             AI / ML                 │
+│              AI / ML                │
 ├─────────────────────────────────────┤
 │                                     │
 │  🧠 ML Training                     │
 │  🤖 AI Applications                 │
 │                                     │
 └─────────────────────────────────────┘
+```
 
-ML Training AI Applications
+`ML Training` `AI Applications`
 
-☁️ Cloud
+---
+
+## ☁️ Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,firebase&theme=dark" />
 </p>
 
-AWS Firebase Supabase
+`AWS` `Firebase` `Supabase`
 
-🔄 Automation
+---
 
+## 🔄 Automation
+
+```text
 ┌─────────────────────────────────────┐
-│            AUTOMATION               │
+│             AUTOMATION              │
 ├─────────────────────────────────────┤
 │                                     │
 │  🔄 n8n                             │
 │  ⚙️ Automation Testing              │
 │                                     │
 └─────────────────────────────────────┘
+```
 
-n8n Automation Testing
+`n8n` `Automation Testing`
 
-🎮 Game Development
+---
+
+## 🎮 Game Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=blender,godot&theme=dark" />
 </p>
 
-Blender Godot Engine
+`Blender` `Godot Engine`
 
-🧪 Testing
+---
 
+## 🧪 Testing
+
+```text
 ┌─────────────────────────────────────┐
 │              TESTING                │
 ├─────────────────────────────────────┤
@@ -102,126 +125,99 @@ Blender Godot Engine
 │  ⚙️ Automation Testing              │
 │                                     │
 └─────────────────────────────────────┘
+```
 
-Manual Testing Automation Testing
+`Manual Testing` `Automation Testing`
 
-📊 GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Analytics" width="100%" />
 </p>
 
-GitHub analytics are generated automatically with the lowlighter/metrics GitHub Action.
+> Automatically generated using the `lowlighter/metrics` GitHub Action.
 
-📅 Contribution Activity
+---
 
-<p align="center">
-  <img src="./github-metrics-habits.svg" alt="Contribution Activity and Coding Habits" width="100%" />
-</p>
-
-The metrics workflow generates contribution activity, coding habits and activity visualizations automatically.
-
-🏆 GitHub Achievements
+# 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codeofrealm&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Achievements" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub Contribution Activity" width="100%" />
 </p>
 
-🖥️ 3D Cyber PC Showcase
+> Includes contribution activity, isometric calendar data, coding habits and language activity.
+
+---
+
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_3D_MODEL_LINK">
-    <img
-      src="YOUR_3D_MODEL_PREVIEW_GIF"
-      alt="Cyber PC 3D Model"
-      width="850"
-    />
-  </a>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=codeofrealm&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
+    alt="GitHub Achievements"
+    width="100%"
+  />
+</p>
+
+---
+
+# 🖥️ 3D Cyber PC Showcase
+
+<p align="center">
+  <strong>⚡ Interactive 3D Cyber PC</strong>
 </p>
 
 <p align="center">
-  <strong>Interactive 3D Cyber PC</strong><br/>
-  Scroll-driven 3D experience • Three.js • React Three Fiber • Blender
+  Scroll-driven 3D experience built with
+  <br/>
+  <code>Three.js</code> • <code>React Three Fiber</code> • <code>Blender</code>
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_3D_MODEL_LINK">
-    <img src="https://img.shields.io/badge/VIEW%203D%20MODEL-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  </a>
-  <a href="YOUR_3D_MODEL_DOWNLOAD_LINK">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20MODEL-262626?style=for-the-badge&logo=blender&logoColor=white" />
-  </a>
+  🖥️ Cyber UI • 🎮 Interactive 3D • ⚡ Scroll Animation
 </p>
 
-A cyber-style 3D PC experience where scrolling through the portfolio controls the camera and model movement.
+> A cyber-style 3D PC experience where scrolling through the portfolio controls the camera and model movement.
 
-⚙️ GitHub Metrics Setup
+> 🔗 The live 3D model and download links will be added when the portfolio model URL is available.
 
-The analytics above are generated using lowlighter/metrics.
+---
 
-Create:
+# ⚙️ GitHub Metrics
 
+The GitHub profile analytics are generated automatically using:
+
+* `lowlighter/metrics`
+* Isometric contribution calendar
+* Coding habits
+* Language activity
+* GitHub activity
+* Repository statistics
+
+Create the following workflow:
+
+```text
 .github/
 └── workflows/
     └── metrics.yml
+```
 
-Example configuration:
+The workflow generates:
 
-name: GitHub Metrics
+```text
+github-metrics.svg
+```
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+and commits it to the repository automatically.
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
+---
 
-    permissions:
-      contents: write
-
-    steps:
-      - name: Generate GitHub Analytics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: codeofrealm
-          filename: github-metrics.svg
-          template: classic
-          config_timezone: Asia/Kolkata
-          base: header, activity, community, repositories, metadata
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_habits: yes
-          plugin_habits_from: 300
-          plugin_habits_days: 30
-          plugin_habits_charts: yes
-          output_action: commit
-
-      - name: Generate Contribution Activity
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: codeofrealm
-          filename: github-metrics-habits.svg
-          template: classic
-          config_timezone: Asia/Kolkata
-          base: activity
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          plugin_habits: yes
-          plugin_habits_from: 300
-          plugin_habits_days: 30
-          plugin_habits_charts: yes
-          output_action: commit
-
-The isocalendar plugin provides the isometric contribution calendar, while the habits plugin provides coding-activity and habits visualizations. The current lowlighter/metrics documentation lists both plugins and supports committing generated SVG output from the Action.
-
-🌐 GitHub
+# 🌐 GitHub
 
 <p align="center">
+
   <a href="https://github.com/codeofrealm">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
@@ -229,24 +225,33 @@ The isocalendar plugin provides the isometric contribution calendar, while the h
   <a href="https://github.com/codeofrealm?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-262626?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
+
 </p>
 
-👀 Profile Views
+---
+
+# 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codeofrealm&style=for-the-badge&color=404040&labelColor=000000&label=PROFILE+VIEWS" />
+  <img
+    src="https://komarev.com/ghpvc/?username=codeofrealm&style=for-the-badge&color=404040&labelColor=000000&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
 </p>
 
+---
+
 <p align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:404040,50:171717,100:000000&height=130&section=footer" />
 
   <br/>
 
-⚫ ZERONEX
+## ⚫ ZERONEX
 
-Developer • Builder • Learner • Creator
+### Developer • Builder • Learner • Creator
 
-Thanks for visiting my GitHub profile.
+**Thanks for visiting my GitHub profile.**
 
 </p>
 
