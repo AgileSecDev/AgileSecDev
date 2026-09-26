@@ -43,7 +43,7 @@ I'm passionate about:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgileSecDev&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=true" width="100%"/>
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@ I'm passionate about:
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AgileSecDev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AgileSecDev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 </p>
 </details>
 
