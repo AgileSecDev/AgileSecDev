@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=6&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=AgileSecDev&fontColor=FFFFFF&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20%7C%20AI%2FML%20%7C%203D%20Printing&descAlignY=58&descColor=999999" width="100%"/>
 </p>
 
 <p align="center">
@@ -115,6 +115,14 @@ I'm passionate about:
   <img src="./metrics.svg" width="100%"/>
 </p>
 
+<details open>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=6&section=footer" width="100%"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AgileSecDev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+</p>
+</details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=150&section=footer&animation=fadeIn" width="100%"/>
 </p>
