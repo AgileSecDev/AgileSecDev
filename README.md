@@ -26,13 +26,13 @@
 ### 📊 Dynamic Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&color=00F5FF&line=FF00E5&point=FF00E5&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgileSecDev&theme=react-dark&bg_color=0D1117&color=00F5FF&line=FF00E5&point=FF00E5&area=true&hide_border=true" width="100%"/>
 </p>
 
 ### 🐍 Snake Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/AgileSecDev/AgileSecDev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 > Generated automatically via the [Platane/snk](https://github.com/Platane/snk) GitHub Action — see setup note at the bottom.
@@ -94,12 +94,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=c9d1d9&border_color=00F5FF&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&bg_color=0D1117&title_color=FF00E5&text_color=c9d1d9&border_color=FF00E5&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AgileSecDev&show_icons=true&theme=react&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=c9d1d9&border_color=00F5FF&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgileSecDev&layout=compact&theme=react&bg_color=0D1117&title_color=FF00E5&text_color=c9d1d9&border_color=FF00E5&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&background=0D1117&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF&border=00F5FF" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgileSecDev&theme=react&background=0D1117&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF&border=00F5FF" width="60%" />
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@
 
 <!--
 SETUP NOTES (delete before publishing):
-1. Replace every "YOUR_USERNAME" with your actual GitHub username.
+1. Replace every "AgileSecDev" with your actual GitHub username.
 2. Stats/langs/streak cards work automatically once the username is set — no extra setup needed.
 3. Snake graph requires a one-time GitHub Action:
    - Create a repo named exactly like your username (your GitHub "profile repo").
