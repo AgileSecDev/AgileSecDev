@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/codeofrealm">
+  <a href="https://github.com/AgileSecDev">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
   <a href="https://github.com/codeofrealm?tab=repositories">
@@ -134,7 +134,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/codeofrealm/AgileSecDev/main/github-metrics.svg"
+    src="https://raw.githubusercontent.com/AgileSecDev/AgileSecDev/main/github-metrics.svg"
     alt="GitHub Analytics"
     width="100%"
   />
@@ -148,7 +148,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/codeofrealm/AgileSecDev/main/github-metrics-habits.svg"
+    src="https://raw.githubusercontent.com/AgileSecDev/AgileSecDev/main/github-metrics-habits.svg"
     alt="GitHub Contribution Activity"
     width="100%"
   />
@@ -162,7 +162,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=codeofrealm&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=AgileSecDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
     alt="GitHub Achievements"
     width="100%"
   />
@@ -193,11 +193,11 @@
 
 <p align="center">
 
-  <a href="https://github.com/codeofrealm">
+  <a href="https://github.com/AgileSecDev">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
 
-  <a href="https://github.com/codeofrealm?tab=repositories">
+  <a href="https://github.com/AgileSecDev?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-262626?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
 
@@ -209,7 +209,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=codeofrealm&style=for-the-badge&color=404040&labelColor=000000&label=PROFILE+VIEWS"
+    src="https://komarev.com/ghpvc/?username=AgileSecDev&style=for-the-badge&color=404040&labelColor=000000&label=PROFILE+VIEWS"
     alt="Profile Views"
   />
 </p>
