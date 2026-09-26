@@ -115,14 +115,6 @@ I'm passionate about:
   <img src="./metrics.svg" width="100%"/>
 </p>
 
-<details open>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AgileSecDev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
-</p>
-</details>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=6&section=footer" width="100%"/>
 </p>
