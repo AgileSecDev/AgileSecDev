@@ -112,15 +112,10 @@ I'm passionate about:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgileSecDev&show_icons=true&count_private=true&theme=dark&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=333333&hide_border=false" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgileSecDev&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999&border=333333" height="165"/>
+  <img src="./metrics.svg" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgileSecDev&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=333333&hide_border=false" height="165"/>
-</p>
-
-<details>
+<details open>
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br>
 <p align="center">
@@ -129,5 +124,5 @@ I'm passionate about:
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=6&section=footer" width="100%"/>
 </p>
