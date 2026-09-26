@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Your+Name;Full-Stack+Developer;AI+%2F+ML+Enthusiast;3D+Modeling+%26+Printing+Nerd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Rahul;Full-Stack+Developer;AI+%2F+ML+Enthusiast;3D+Modeling+%26+Printing+Nerd" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/AgileSecDev/AgileSecDev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-> Generated automatically via the [Platane/snk](https://github.com/Platane/snk) GitHub Action — see setup note at the bottom.
+> Generated automatically via the [Platane/snk](https://github.com/Platane/snk) GitHub Action.
 
 ---
 
@@ -89,6 +89,41 @@
   <img src="https://img.shields.io/badge/Meshy.ai-14151a?style=for-the-badge&logo=cubes&logoColor=FF00E5" />
 </p>
 
+<table align="center">
+  <tr>
+    <th>Tool</th>
+    <th>Role in my workflow</th>
+  </tr>
+  <tr>
+    <td><b>Bambu Lab A1</b></td>
+    <td>FDM printer used for final prototyping and physical prints of generated models</td>
+  </tr>
+  <tr>
+    <td><b>Blender</b></td>
+    <td>Manual sculpting, retopology, UV work, and cleanup before slicing</td>
+  </tr>
+  <tr>
+    <td><b>Large Gaussian Model (LGM)</b></td>
+    <td>Fast image-to-3D generation using Gaussian splatting, converted to mesh for downstream editing</td>
+  </tr>
+  <tr>
+    <td><b>PyMeshLab</b></td>
+    <td>Scripted mesh repair, decimation, and format conversion in Python pipelines</td>
+  </tr>
+  <tr>
+    <td><b>CSM</b></td>
+    <td>AI-assisted 3D asset generation from text/image prompts</td>
+  </tr>
+  <tr>
+    <td><b>Tripo3D</b></td>
+    <td>Rapid text/image-to-3D generation for early-stage concept models</td>
+  </tr>
+  <tr>
+    <td><b>Meshy.ai</b></td>
+    <td>Texturing and refinement of generated meshes before print prep</td>
+  </tr>
+</table>
+
 ---
 
 ### 📈 GitHub Stats
@@ -105,15 +140,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F5FF&height=100&section=footer" width="100%"/>
 </p>
-
-<!--
-SETUP NOTES (delete before publishing):
-1. Replace every "AgileSecDev" with your actual GitHub username.
-2. Stats/langs/streak cards work automatically once the username is set — no extra setup needed.
-3. Snake graph requires a one-time GitHub Action:
-   - Create a repo named exactly like your username (your GitHub "profile repo").
-   - Add .github/workflows/snake.yml using the Platane/snk action
-     (https://github.com/Platane/snk) to generate the snake SVG on a schedule.
-   - This README already points to the "output" branch path that action publishes to.
-4. This file itself should be the README.md in that same profile repo so it renders on your GitHub profile page.
--->
