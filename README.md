@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=150&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=6&section=header" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400"/>
 </p>
 
 <p align="center">
