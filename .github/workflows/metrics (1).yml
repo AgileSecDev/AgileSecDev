@@ -25,7 +25,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_habits: yes
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements_display: detailed
           config_timezone: Asia/Kolkata
           config_display: large
           config_theme: dark
