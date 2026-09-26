@@ -1,235 +1,55 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:404040&height=180&section=header&text=RAHUL&fontSize=52&fontColor=E5E5E5&animation=fadeIn&fontAlignY=55" />
-</p>
+# Hi there, I'm Rahul 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Web+%7C+Mobile+%7C+Backend;AI+%2F+ML+Application+Builder;Automation+%7C+Cloud+%7C+Testing;Always+Learning+%26+Building" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/AgileSecDev">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-  <a href="https://github.com/codeofrealm?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-171717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=codeofrealm&style=for-the-badge&color=404040&label=PROFILE+VIEWS" />
-</p>
+A passionate **Full-Stack & Mobile Developer** who loves building high-performance web applications, mobile apps, and exploring AI/ML workflows.
 
 ---
 
-# 🖥️ Skills & Technology
+### 🚀 About Me
 
-## 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter&theme=dark" />
-</p>
-
-`React` `Next.js` `Flutter` `React Native`
-
----
-
-## ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,spring&theme=dark" />
-</p>
-
-`Django` `FastAPI` `Spring Boot`
+- 💻 **Frontend:** React, Next.js, JavaScript, Tailwind CSS
+- 📱 **Mobile:** Flutter
+- ⚙️ **Backend & Automation:** Java, Spring Boot, Python, Django, Flask, n8n
+- 🗄️ **Databases & Cloud:** PostgreSQL, SQL, MongoDB, Firebase, Supabase, AWS
+- 🧠 **AI / ML & Tools:** Machine Learning, Training Small Language Models (SLMs), Linux, Deployment
+- 🎨 **Creative Tech:** Blender, Godot
 
 ---
 
-## 💻 Programming Languages
+### 🛠️ Tech Stack & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
-</p>
+#### **Frontend & Mobile**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-`Python` `Java` `JavaScript` `TypeScript`
+#### **Backend & Workflows**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 
----
+#### **Databases & Cloud**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
-</p>
-
-`MongoDB` `MySQL` `PostgreSQL`
-
----
-
-## 🤖 AI / ML
-
-```text
-┌─────────────────────────────────────┐
-│              AI / ML                │
-├─────────────────────────────────────┤
-│                                     │
-│  🧠 ML Training                     │
-│  🤖 AI Applications                 │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-`ML Training` `AI Applications`
+#### **Tools, OS & Creative Tech**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ---
 
-## ☁️ Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,firebase&theme=dark" />
-</p>
-
-`AWS` `Firebase` `Supabase`
-
----
-
-## 🔄 Automation
-
-```text
-┌─────────────────────────────────────┐
-│             AUTOMATION              │
-├─────────────────────────────────────┤
-│                                     │
-│  🔄 n8n                             │
-│  ⚙️ Automation Testing              │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-`n8n` `Automation Testing`
-
----
-
-## 🎮 Game Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=blender,godot&theme=dark" />
-</p>
-
-`Blender` `Godot Engine`
-
----
-
-## 🧪 Testing
-
-```text
-┌─────────────────────────────────────┐
-│              TESTING                │
-├─────────────────────────────────────┤
-│                                     │
-│  🔍 Manual Testing                  │
-│  ⚙️ Automation Testing              │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-`Manual Testing` `Automation Testing`
-
----
-# 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/AgileSecDev/AgileSecDev/main/github-metrics.svg"
-    alt="GitHub Analytics"
-    width="100%"
-  />
-</p>
-
-> Automatically generated using `lowlighter/metrics`.
-
----
-
-# 📅 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/AgileSecDev/AgileSecDev/main/github-metrics-habits.svg"
-    alt="GitHub Contribution Activity"
-    width="100%"
-  />
-</p>
-
-> Contribution activity, coding habits and calendar statistics generated automatically by GitHub Actions.
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=AgileSecDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
-    alt="GitHub Achievements"
-    width="100%"
-  />
-</p>
-
-
-# 🖥️ 3D Cyber PC Showcase
-
-<p align="center">
-  <strong>⚡ Interactive 3D Cyber PC</strong>
-</p>
-
-<p align="center">
-  Scroll-driven 3D experience built with
-  <br/>
-  <code>Three.js</code> • <code>React Three Fiber</code> • <code>Blender</code>
-</p>
-
-<p align="center">
-  🖥️ Cyber UI • 🎮 Interactive 3D • ⚡ Scroll Animation
-</p>
-
-> A cyber-style 3D PC experience where scrolling through the portfolio controls the camera and model movement.
-
----
-
-# 🌐 GitHub
-
-<p align="center">
-
-  <a href="https://github.com/AgileSecDev">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-
-  <a href="https://github.com/AgileSecDev?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-262626?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=AgileSecDev&style=for-the-badge&color=404040&labelColor=000000&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
-</p>
-
----
-
-<p align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:404040,50:171717,100:000000&height=130&section=footer" />
-
-  <br/>
-
-## ⚫ ZERONEX
-
-### Developer • Builder • Learner • Creator
-
-**Thanks for visiting my GitHub profile.**
-
-</p>
-
-<p align="center">
-  <sub>© Rahul • Built with code, curiosity and consistency.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
