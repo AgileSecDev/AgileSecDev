@@ -23,7 +23,7 @@
 
 ---
 
-## 🙏 Namaste
+##
 
 I'm **Rahul**, an enthusiast developer building across web, mobile, and AI 🇮🇳
 
@@ -114,14 +114,6 @@ I'm passionate about:
 <p align="center">
   <img src="./metrics.svg" width="100%"/>
 </p>
-
-<details open>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AgileSecDev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
-</p>
-</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=150&section=footer&animation=fadeIn" width="100%"/>
