@@ -22,24 +22,15 @@
 
 <p align="center">
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" title="LinkedIn" width="48" height="48" />&nbsp;
   </a>
 
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
+    <img src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" title="Portfolio" width="48" height="48" />&nbsp;
   </a>
 
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://cdn.simpleicons.org/gmail" alt="Email" title="Email" width="48" height="48" />&nbsp;
   </a>
 </p>
 
@@ -121,45 +112,21 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 
 <p align="center">
 
-<img
- src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
- alt="Java"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
- alt="Python"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"
- alt="C"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
- alt="C++"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
- alt="TypeScript"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
- alt="JavaScript"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
- alt="Dart"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
- alt="HTML5"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="48" height="48" />&nbsp;
 
 </p>
 
@@ -169,50 +136,23 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 
 <p align="center">
 
-<img
- src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"
- alt="Spring Boot"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
- alt="React"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
- alt="Next.js"
-/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF"><img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="48" height="48" /></picture>&nbsp;
 
-<img
- src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"
- alt="Tailwind CSS"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
- alt="Flutter"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"
- alt="React Native"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" title="React Native" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
- alt="Django"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="Django" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
- alt="Flask"
-/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/FFFFFF"><img src="https://cdn.simpleicons.org/flask/000000" alt="Flask" title="Flask" width="48" height="48" /></picture>&nbsp;
 
-<img
- src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
- alt="FastAPI"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="48" height="48" />&nbsp;
 
 </p>
 
@@ -222,45 +162,21 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 
 <p align="center">
 
-<img
- src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
- alt="PyTorch"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"
- alt="Hugging Face Transformers"
-/>
+<img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face Transformers" title="Hugging Face Transformers" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"
- alt="Scikit-learn"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/TorchAudio-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
- alt="TorchAudio"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="TorchAudio" title="TorchAudio" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Silero%20VAD-8A2BE2?style=for-the-badge&logoColor=white"
- alt="Silero Voice Activity Detector"
-/>
+<img src="https://www.google.com/s2/favicons?domain=silero.ai&sz=128" alt="Silero Voice Activity Detector" title="Silero Voice Activity Detector" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"
- alt="Google Colab"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" title="Google Colab" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
- alt="Docker"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
- alt="Kaggle"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" title="Kaggle" width="48" height="48" />&nbsp;
 
 </p>
 
@@ -270,20 +186,11 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 
 <p align="center">
 
-<img
- src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
- alt="MongoDB"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
- alt="MySQL"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
- alt="PostgreSQL"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />&nbsp;
 
 </p>
 
@@ -293,20 +200,11 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 
 <p align="center">
 
-<img
- src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"
- alt="Amazon Web Services"
-/>
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="Amazon Web Services" title="Amazon Web Services" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
- alt="Firebase"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"
- alt="Supabase"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="48" height="48" />&nbsp;
 
 </p>
 
@@ -316,20 +214,11 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 
 <p align="center">
 
-<img
- src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"
- alt="n8n automation platform"
-/>
+<img src="https://cdn.simpleicons.org/n8n" alt="n8n automation platform" title="n8n automation platform" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Automation%20Testing-43B02A?style=for-the-badge&logo=selenium&logoColor=white"
- alt="Automation Testing"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Automation Testing" title="Automation Testing" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Manual%20Testing-FF6F00?style=for-the-badge&logoColor=white"
- alt="Manual Testing"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Manual Testing" title="Manual Testing" width="48" height="48" />&nbsp;
 
 </p>
 
@@ -339,40 +228,19 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 
 <p align="center">
 
-<img
- src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"
- alt="Blender"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" title="Blender" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Bambu%20Lab%20A1-00AE42?style=for-the-badge&logoColor=white"
- alt="Bambu Lab A1"
-/>
+<img src="https://cdn.simpleicons.org/bambulab/00AE42" alt="Bambu Lab A1" title="Bambu Lab A1" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Large%20Gaussian%20Model-7C3AED?style=for-the-badge&logoColor=white"
- alt="Large Gaussian Model"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Large Gaussian Model" title="Large Gaussian Model" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/PyMeshLab-2E86C1?style=for-the-badge&logoColor=white"
- alt="PyMeshLab"
-/>
+<img src="https://www.google.com/s2/favicons?domain=pymeshlab.net&sz=128" alt="PyMeshLab" title="PyMeshLab" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/CSM-FF4081?style=for-the-badge&logoColor=white"
- alt="CSM"
-/>
+<img src="https://www.google.com/s2/favicons?domain=csm.ai&sz=128" alt="CSM" title="CSM" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Tripo3D-00C2A8?style=for-the-badge&logoColor=white"
- alt="Tripo3D"
-/>
+<img src="https://www.google.com/s2/favicons?domain=tripo3d.ai&sz=128" alt="Tripo3D" title="Tripo3D" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Meshy.ai-6A5ACD?style=for-the-badge&logoColor=white"
- alt="Meshy.ai"
-/>
+<img src="https://www.google.com/s2/favicons?domain=meshy.ai&sz=128" alt="Meshy.ai" title="Meshy.ai" width="48" height="48" />&nbsp;
 
 </p>
 
@@ -399,35 +267,17 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 
 <p align="center">
 
-<img
- src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
- alt="Git"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
- alt="GitHub"
-/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF"><img src="https://cdn.simpleicons.org/github/000000" alt="GitHub" title="GitHub" width="48" height="48" /></picture>&nbsp;
 
-<img
- src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"
- alt="Visual Studio Code"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"
- alt="Android Studio"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
- alt="Postman"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="48" height="48" />&nbsp;
 
-<img
- src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
- alt="Linux"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="48" height="48" />&nbsp;
 
 </p>
 
