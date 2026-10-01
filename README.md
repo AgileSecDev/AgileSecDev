@@ -21,6 +21,13 @@
 </p>
 
 <p align="center">
+<a href="mailto:rahul63794@gmail.com"><img src="https://api.iconify.design/logos:google-gmail.svg" alt="Email" title="Email" width="48" height="48" /></a>
+<a href="https://www.linkedin.com/in/rahul-77a46b273?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://api.iconify.design/logos:linkedin-icon.svg" alt="LinkedIn" title="LinkedIn" width="48" height="48" /></a>
+<a href="https://www.youtube.com/@MR-RZone"><img src="https://api.iconify.design/logos:youtube-icon.svg" alt="YouTube" title="YouTube" width="48" height="48" /></a>
+<a href="https://www.instagram.com/rahul_zeronex___?stkn=MTI4Zm9waXE1eThqcg=="><img src="https://api.iconify.design/logos:instagram-icon.svg" alt="Instagram" title="Instagram" width="48" height="48" /></a>
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=AgileSecDev&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS&labelColor=000000" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/AgileSecDev?style=for-the-badge&color=2EA44F&labelColor=000000&logo=github" alt="GitHub followers" />
 </p>
