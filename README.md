@@ -21,10 +21,10 @@
 </p>
 
 <p align="center">
-<a href="mailto:rahul63794@gmail.com"><img src="https://api.iconify.design/logos:google-gmail.svg" alt="Email" title="Email" width="48" height="48" /></a>
-<a href="https://www.linkedin.com/in/rahul-77a46b273?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://api.iconify.design/logos:linkedin-icon.svg" alt="LinkedIn" title="LinkedIn" width="48" height="48" /></a>
-<a href="https://www.youtube.com/@MR-RZone"><img src="https://api.iconify.design/logos:youtube-icon.svg" alt="YouTube" title="YouTube" width="48" height="48" /></a>
-<a href="https://www.instagram.com/rahul_zeronex___?stkn=MTI4Zm9waXE1eThqcg=="><img src="https://api.iconify.design/logos:instagram-icon.svg" alt="Instagram" title="Instagram" width="48" height="48" /></a>
+<a href="mailto:rahul63794@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>
+<a href="https://www.linkedin.com/in/rahul-77a46b273?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@MR-RZone"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.instagram.com/rahul_zeronex___?stkn=MTI4Zm9waXE1eThqcg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="center">
