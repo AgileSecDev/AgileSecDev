@@ -127,7 +127,6 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 ## 🤖 Artificial Intelligence & Machine Learning
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face Transformers" title="Hugging Face Transformers" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="TorchAudio" title="TorchAudio" width="48" height="48" />
