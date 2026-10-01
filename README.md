@@ -23,21 +23,21 @@
 <p align="center">
   <a href="#">
     <img
-      src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
   <a href="#">
     <img
-      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"
+      src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Portfolio"
     />
   </a>
 
   <a href="#">
     <img
-      src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
@@ -45,12 +45,12 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=AgileSecDev&style=for-the-badge&color=000000&label=PROFILE+VIEWS&labelColor=000000"
+    src="https://komarev.com/ghpvc/?username=AgileSecDev&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS&labelColor=000000"
     alt="Profile views"
   />
 
 <img
- src="https://img.shields.io/github/followers/AgileSecDev?style=for-the-badge&color=000000&labelColor=000000"
+ src="https://img.shields.io/github/followers/AgileSecDev?style=for-the-badge&color=2EA44F&labelColor=000000&logo=github"
  alt="GitHub followers"
 />
 
@@ -95,30 +95,6 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 
 ---
 
-## ⚡ Development Focus
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   WEB DEVELOPMENT       → React • Next.js • Django         │
-│                                                             │
-│   MOBILE DEVELOPMENT    → Flutter • React Native           │
-│                                                             │
-│   BACKEND DEVELOPMENT   → FastAPI • Spring Boot             │
-│                                                             │
-│   AI / ML               → PyTorch • Transformers           │
-│                                                             │
-│   AUTOMATION            → Python • n8n • Testing            │
-│                                                             │
-│   CLOUD                 → AWS • Firebase • Supabase        │
-│                                                             │
-│   3D                    → Blender • LGM • Mesh Generation   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -146,42 +122,42 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 <p align="center">
 
 <img
- src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
  alt="Java"
 />
 
 <img
- src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
  alt="Python"
 />
 
 <img
- src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"
  alt="C"
 />
 
 <img
- src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
  alt="C++"
 />
 
 <img
- src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
  alt="TypeScript"
 />
 
 <img
- src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
  alt="JavaScript"
 />
 
 <img
- src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
  alt="Dart"
 />
 
 <img
- src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
  alt="HTML5"
 />
 
@@ -194,47 +170,47 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 <p align="center">
 
 <img
- src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"
  alt="Spring Boot"
 />
 
 <img
- src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
  alt="React"
 />
 
 <img
- src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
  alt="Next.js"
 />
 
 <img
- src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"
  alt="Tailwind CSS"
 />
 
 <img
- src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
  alt="Flutter"
 />
 
 <img
- src="https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"
  alt="React Native"
 />
 
 <img
- src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
  alt="Django"
 />
 
 <img
- src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
  alt="Flask"
 />
 
 <img
- src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
  alt="FastAPI"
 />
 
@@ -247,42 +223,42 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 <p align="center">
 
 <img
- src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
  alt="PyTorch"
 />
 
 <img
- src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"
  alt="Hugging Face Transformers"
 />
 
 <img
- src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"
  alt="Scikit-learn"
 />
 
 <img
- src="https://img.shields.io/badge/TorchAudio-000000?style=for-the-badge&logo=pytorch&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/TorchAudio-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
  alt="TorchAudio"
 />
 
 <img
- src="https://img.shields.io/badge/Silero%20VAD-000000?style=for-the-badge&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Silero%20VAD-8A2BE2?style=for-the-badge&logoColor=white"
  alt="Silero Voice Activity Detector"
 />
 
 <img
- src="https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"
  alt="Google Colab"
 />
 
 <img
- src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
  alt="Docker"
 />
 
 <img
- src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
  alt="Kaggle"
 />
 
@@ -295,17 +271,17 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 <p align="center">
 
 <img
- src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
  alt="MongoDB"
 />
 
 <img
- src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
  alt="MySQL"
 />
 
 <img
- src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
  alt="PostgreSQL"
 />
 
@@ -318,17 +294,17 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 <p align="center">
 
 <img
- src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"
  alt="Amazon Web Services"
 />
 
 <img
- src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
  alt="Firebase"
 />
 
 <img
- src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"
  alt="Supabase"
 />
 
@@ -341,17 +317,17 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 <p align="center">
 
 <img
- src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"
  alt="n8n automation platform"
 />
 
 <img
- src="https://img.shields.io/badge/Automation%20Testing-000000?style=for-the-badge&logo=selenium&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Automation%20Testing-43B02A?style=for-the-badge&logo=selenium&logoColor=white"
  alt="Automation Testing"
 />
 
 <img
- src="https://img.shields.io/badge/Manual%20Testing-000000?style=for-the-badge&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Manual%20Testing-FF6F00?style=for-the-badge&logoColor=white"
  alt="Manual Testing"
 />
 
@@ -364,37 +340,37 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 <p align="center">
 
 <img
- src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"
  alt="Blender"
 />
 
 <img
- src="https://img.shields.io/badge/Bambu%20Lab%20A1-000000?style=for-the-badge&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Bambu%20Lab%20A1-00AE42?style=for-the-badge&logoColor=white"
  alt="Bambu Lab A1"
 />
 
 <img
- src="https://img.shields.io/badge/Large%20Gaussian%20Model-000000?style=for-the-badge&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Large%20Gaussian%20Model-7C3AED?style=for-the-badge&logoColor=white"
  alt="Large Gaussian Model"
 />
 
 <img
- src="https://img.shields.io/badge/PyMeshLab-000000?style=for-the-badge&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/PyMeshLab-2E86C1?style=for-the-badge&logoColor=white"
  alt="PyMeshLab"
 />
 
 <img
- src="https://img.shields.io/badge/CSM-000000?style=for-the-badge&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/CSM-FF4081?style=for-the-badge&logoColor=white"
  alt="CSM"
 />
 
 <img
- src="https://img.shields.io/badge/Tripo3D-000000?style=for-the-badge&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Tripo3D-00C2A8?style=for-the-badge&logoColor=white"
  alt="Tripo3D"
 />
 
 <img
- src="https://img.shields.io/badge/Meshy.ai-000000?style=for-the-badge&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Meshy.ai-6A5ACD?style=for-the-badge&logoColor=white"
  alt="Meshy.ai"
 />
 
@@ -424,32 +400,32 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 <p align="center">
 
 <img
- src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
  alt="Git"
 />
 
 <img
- src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
  alt="GitHub"
 />
 
 <img
- src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"
  alt="Visual Studio Code"
 />
 
 <img
- src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"
  alt="Android Studio"
 />
 
 <img
- src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
  alt="Postman"
 />
 
 <img
- src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF"
+ src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
  alt="Linux"
 />
 
