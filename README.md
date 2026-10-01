@@ -151,9 +151,9 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 ## ☁️ Cloud & Backend Services
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="Amazon Web Services" title="Amazon Web Services" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" title="Firebase" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase" title="Supabase" width="48" height="48" />
 </p>
 
 ---
