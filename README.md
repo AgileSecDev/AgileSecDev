@@ -21,30 +21,14 @@
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" title="LinkedIn" width="48" height="48" />&nbsp;
-  </a>
-
-  <a href="#">
-    <img src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" title="Portfolio" width="48" height="48" />&nbsp;
-  </a>
-
-  <a href="#">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Email" title="Email" width="48" height="48" />&nbsp;
-  </a>
+<a href="#"><img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" title="LinkedIn" width="48" height="48" /></a>
+<a href="#"><img src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" title="Portfolio" width="48" height="48" /></a>
+<a href="#"><img src="https://cdn.simpleicons.org/gmail" alt="Email" title="Email" width="48" height="48" /></a>
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=AgileSecDev&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS&labelColor=000000"
-    alt="Profile views"
-  />
-
-<img
- src="https://img.shields.io/github/followers/AgileSecDev?style=for-the-badge&color=2EA44F&labelColor=000000&logo=github"
- alt="GitHub followers"
-/>
-
+<img src="https://komarev.com/ghpvc/?username=AgileSecDev&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS&labelColor=000000" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/AgileSecDev?style=for-the-badge&color=2EA44F&labelColor=000000&logo=github" alt="GitHub followers" />
 </p>
 
 ---
@@ -111,23 +95,14 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 ## 💻 Programming Languages
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="48" height="48" />&nbsp;
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="48" height="48" />
 </p>
 
 ---
@@ -135,25 +110,15 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 ## ⚛️ Frameworks & Libraries
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" />&nbsp;
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF"><img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="48" height="48" /></picture>&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" title="React Native" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="Django" width="48" height="48" />&nbsp;
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/FFFFFF"><img src="https://cdn.simpleicons.org/flask/000000" alt="Flask" title="Flask" width="48" height="48" /></picture>&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="48" height="48" />&nbsp;
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF"><img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="48" height="48" /></picture>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" title="React Native" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="Django" width="48" height="48" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/FFFFFF"><img src="https://cdn.simpleicons.org/flask/000000" alt="Flask" title="Flask" width="48" height="48" /></picture>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="48" height="48" />
 </p>
 
 ---
@@ -161,23 +126,14 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 ## 🤖 Artificial Intelligence & Machine Learning
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face Transformers" title="Hugging Face Transformers" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="TorchAudio" title="TorchAudio" width="48" height="48" />&nbsp;
-
-<img src="https://www.google.com/s2/favicons?domain=silero.ai&sz=128" alt="Silero Voice Activity Detector" title="Silero Voice Activity Detector" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" title="Google Colab" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" title="Kaggle" width="48" height="48" />&nbsp;
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face Transformers" title="Hugging Face Transformers" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="TorchAudio" title="TorchAudio" width="48" height="48" />
+<img src="https://www.google.com/s2/favicons?domain=silero.ai&sz=128" alt="Silero Voice Activity Detector" title="Silero Voice Activity Detector" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" title="Google Colab" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" title="Kaggle" width="48" height="48" />
 </p>
 
 ---
@@ -185,13 +141,9 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 ## 🗄️ Databases
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />&nbsp;
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
 </p>
 
 ---
@@ -199,13 +151,9 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 ## ☁️ Cloud & Backend Services
 
 <p align="center">
-
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="Amazon Web Services" title="Amazon Web Services" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="48" height="48" />&nbsp;
-
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="Amazon Web Services" title="Amazon Web Services" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="48" height="48" />
 </p>
 
 ---
@@ -213,13 +161,9 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 ## ⚙️ Automation & Testing
 
 <p align="center">
-
-<img src="https://cdn.simpleicons.org/n8n" alt="n8n automation platform" title="n8n automation platform" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Automation Testing" title="Automation Testing" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Manual Testing" title="Manual Testing" width="48" height="48" />&nbsp;
-
+<img src="https://cdn.simpleicons.org/n8n" alt="n8n automation platform" title="n8n automation platform" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Automation Testing" title="Automation Testing" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Manual Testing" title="Manual Testing" width="48" height="48" />
 </p>
 
 ---
@@ -227,21 +171,13 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 ## 🖨️ 3D Modeling & Printing
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" title="Blender" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.simpleicons.org/bambulab/00AE42" alt="Bambu Lab A1" title="Bambu Lab A1" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Large Gaussian Model" title="Large Gaussian Model" width="48" height="48" />&nbsp;
-
-<img src="https://www.google.com/s2/favicons?domain=pymeshlab.net&sz=128" alt="PyMeshLab" title="PyMeshLab" width="48" height="48" />&nbsp;
-
-<img src="https://www.google.com/s2/favicons?domain=csm.ai&sz=128" alt="CSM" title="CSM" width="48" height="48" />&nbsp;
-
-<img src="https://www.google.com/s2/favicons?domain=tripo3d.ai&sz=128" alt="Tripo3D" title="Tripo3D" width="48" height="48" />&nbsp;
-
-<img src="https://www.google.com/s2/favicons?domain=meshy.ai&sz=128" alt="Meshy.ai" title="Meshy.ai" width="48" height="48" />&nbsp;
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" title="Blender" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/bambulab/00AE42" alt="Bambu Lab A1" title="Bambu Lab A1" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Large Gaussian Model" title="Large Gaussian Model" width="48" height="48" />
+<img src="https://www.google.com/s2/favicons?domain=pymeshlab.net&sz=128" alt="PyMeshLab" title="PyMeshLab" width="48" height="48" />
+<img src="https://www.google.com/s2/favicons?domain=csm.ai&sz=128" alt="CSM" title="CSM" width="48" height="48" />
+<img src="https://www.google.com/s2/favicons?domain=tripo3d.ai&sz=128" alt="Tripo3D" title="Tripo3D" width="48" height="48" />
+<img src="https://www.google.com/s2/favicons?domain=meshy.ai&sz=128" alt="Meshy.ai" title="Meshy.ai" width="48" height="48" />
 </p>
 
 <details>
@@ -266,19 +202,12 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 ## 🛠️ Tools & Development Environment
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48" />&nbsp;
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF"><img src="https://cdn.simpleicons.org/github/000000" alt="GitHub" title="GitHub" width="48" height="48" /></picture>&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="48" height="48" />&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="48" height="48" />&nbsp;
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF"><img src="https://cdn.simpleicons.org/github/000000" alt="GitHub" title="GitHub" width="48" height="48" /></picture>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="48" height="48" />
 </p>
 
 ---
