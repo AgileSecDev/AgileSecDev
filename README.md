@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Rahul;Full-Stack+Developer;AI+%2F+ML+Enthusiast;3D+Modeling+%26+Printing+Nerd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+cybrninjaX;Full-Stack+Developer;AI+%2F+ML+Enthusiast;3D+Modeling+%26+Printing+Nerd" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=AgileSecDev&fontColor=FFFFFF&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20%7C%20AI%2FML%20%7C%203D%20Printing&descAlignY=58&descColor=999999" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=cybrninjaX&fontColor=FFFFFF&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20%7C%20AI%2FML%20%7C%203D%20Printing&descAlignY=58&descColor=999999" width="100%"/>
 </p>
 
 <p align="center">
@@ -25,22 +25,24 @@
 
 ##
 
-I'm **Rahul**, an enthusiast developer building across web, mobile, and AI 🇮🇳
+I'm **cybrninjaX**, an enthusiast developer building across web, mobile, and AI 🇮🇳
 
 Technology has always fascinated me — I've immersed myself in full-stack development, applied ML, and generative 3D. My purpose? **Building things that actually get used.**
 
 I'm a curious person who loves prototyping fast — idea to working demo, then straight to my 3D printer.
 
 I'm passionate about:
-- 🌐 Web & Mobile Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🖨️ 3D Modeling, Generative 3D & Printing
+
+* 🌐 Web & Mobile Development
+* 🤖 Artificial Intelligence & Machine Learning
+* 🖨️ 3D Modeling, Generative 3D & Printing
 
 ### 📍 Present Status
-- 👉 Building projects across Java / Python / TypeScript stacks
-- 👉 Training and fine-tuning models with PyTorch & Transformers
-- 👉 Generating and printing 3D assets end-to-end (prompt → mesh → print)
-- 👉 Always open to collaborating on open-source
+
+* 👉 Building projects across Java / Python / TypeScript stacks
+* 👉 Training and fine-tuning models with PyTorch & Transformers
+* 👉 Generating and printing 3D assets end-to-end (prompt → mesh → print)
+* 👉 Always open to collaborating on open-source
 
 ---
 
@@ -59,16 +61,19 @@ I'm passionate about:
 ## 🧩 Mastered Technologies & Topics
 
 **Programming Languages**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,ts,js,dart,html&theme=dark" />
 </p>
 
 **Frameworks & Libraries**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,react,tailwind,flutter,django,flask,fastapi&theme=dark" />
 </p>
 
 **Artificial Intelligence & Machine Learning**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn,colab,docker,kaggle&theme=dark" />
 </p>
@@ -79,6 +84,7 @@ I'm passionate about:
 </p>
 
 **3D Modeling & Printing**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=blender&theme=dark" />
 </p>
@@ -95,15 +101,15 @@ I'm passionate about:
 <summary><b>3D pipeline — role of each tool</b></summary>
 <br>
 
-| Tool | Role in my workflow |
-|---|---|
-| **Bambu Lab A1** | FDM printer used for final prototyping and physical prints of generated models |
-| **Blender** | Manual sculpting, retopology, UV work, and cleanup before slicing |
+| Tool                           | Role in my workflow                                                                 |
+| ------------------------------ | ----------------------------------------------------------------------------------- |
+| **Bambu Lab A1**               | FDM printer used for final prototyping and physical prints of generated models      |
+| **Blender**                    | Manual sculpting, retopology, UV work, and cleanup before slicing                   |
 | **Large Gaussian Model (LGM)** | Fast image-to-3D generation using Gaussian splatting, converted to mesh for editing |
-| **PyMeshLab** | Scripted mesh repair, decimation, and format conversion in Python pipelines |
-| **CSM** | AI-assisted 3D asset generation from text/image prompts |
-| **Tripo3D** | Rapid text/image-to-3D generation for early-stage concept models |
-| **Meshy.ai** | Texturing and refinement of generated meshes before print prep |
+| **PyMeshLab**                  | Scripted mesh repair, decimation, and format conversion in Python pipelines         |
+| **CSM**                        | AI-assisted 3D asset generation from text/image prompts                             |
+| **Tripo3D**                    | Rapid text/image-to-3D generation for early-stage concept models                    |
+| **Meshy.ai**                   | Texturing and refinement of generated meshes before print prep                      |
 
 </details>
 
@@ -118,4 +124,3 @@ I'm passionate about:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=150&section=footer&animation=fadeIn" width="100%"/>
 </p>
-.
