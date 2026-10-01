@@ -112,7 +112,6 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" />
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF"><img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="48" height="48" /></picture>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="48" height="48" />
@@ -130,7 +129,6 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face Transformers" title="Hugging Face Transformers" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="TorchAudio" title="TorchAudio" width="48" height="48" />
-<img src="https://www.google.com/s2/favicons?domain=silero.ai&sz=128" alt="Silero Voice Activity Detector" title="Silero Voice Activity Detector" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" title="Google Colab" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" title="Kaggle" width="48" height="48" />
