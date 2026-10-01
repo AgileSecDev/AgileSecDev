@@ -173,11 +173,6 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" title="Blender" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/bambulab/00AE42" alt="Bambu Lab A1" title="Bambu Lab A1" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Large Gaussian Model" title="Large Gaussian Model" width="48" height="48" />
-<img src="https://www.google.com/s2/favicons?domain=pymeshlab.net&sz=128" alt="PyMeshLab" title="PyMeshLab" width="48" height="48" />
-<img src="https://www.google.com/s2/favicons?domain=csm.ai&sz=128" alt="CSM" title="CSM" width="48" height="48" />
-<img src="https://www.google.com/s2/favicons?domain=tripo3d.ai&sz=128" alt="Tripo3D" title="Tripo3D" width="48" height="48" />
-<img src="https://www.google.com/s2/favicons?domain=meshy.ai&sz=128" alt="Meshy.ai" title="Meshy.ai" width="48" height="48" />
 </p>
 
 <details>
