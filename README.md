@@ -283,6 +283,16 @@ I'm a curious developer who loves prototyping fast — from an initial idea to a
 <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-2EA44F?style=for-the-badge&labelColor=000000" alt="AI/ML Enthusiast" />
 <img src="https://img.shields.io/badge/3D-Printing%20Nerd-00AE42?style=for-the-badge&labelColor=000000" alt="3D Printing Nerd" />
 <img src="https://img.shields.io/github/followers/AgileSecDev?style=for-the-badge&color=2EA44F&labelColor=000000&logo=github" alt="Followers" />
+
+  <p align="center">
+
+<img
+ src="https://YOUR-PROJECT.vercel.app/?username=AgileSecDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1"
+ alt="GitHub achievement trophies"
+ width="100%"
+/>
+
+</p>
 </p>
 
 ---
