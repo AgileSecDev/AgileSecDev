@@ -21,12 +21,6 @@
 </p>
 
 <p align="center">
-<a href="#"><img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" title="LinkedIn" width="48" height="48" /></a>
-<a href="#"><img src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" title="Portfolio" width="48" height="48" /></a>
-<a href="#"><img src="https://cdn.simpleicons.org/gmail" alt="Email" title="Email" width="48" height="48" /></a>
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=AgileSecDev&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS&labelColor=000000" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/AgileSecDev?style=for-the-badge&color=2EA44F&labelColor=000000&logo=github" alt="GitHub followers" />
 </p>
