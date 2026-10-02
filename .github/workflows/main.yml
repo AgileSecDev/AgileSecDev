@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: AgileSecDev
+          github_user_name: CybrNinjaX
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%23FFFFFF&color_dots=%23111111,%23333333,%23666666,%23999999,%23FFFFFF
 
